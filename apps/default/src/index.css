@@ -1,0 +1,180 @@
+/* ─── Premium Font ─────────────────────────────────────────────────────────── */
+@tailwind base;
+
+@custom-variant dark (&:is(.dark *));
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ── GuardLink PRI Palette ─────────────────────────────────────── */
+    --background: 204 33% 97%;          /* #F4F7F9 alabaster */
+    --foreground: 225 18% 9%;           /* #12141A gunmetal */
+    --card: 0 0% 100%;                  /* white */
+    --card-foreground: 225 18% 9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 225 18% 9%;
+    --primary: 189 94% 43%;             /* #06B6D4 cyan-500 */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 189 94% 43%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 349 89% 60%;         /* #F43F5E rose-500 */
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 189 94% 43%;
+    --radius: 1rem;
+
+    --brand-cyan: #06B6D4;
+    --brand-rose: #F43F5E;
+
+    /* PRI Spec specific */
+    --obsidian: #090A0F;
+    --gunmetal: #12141A;
+    --titanium: #1A1C23;
+    --alabaster: #F4F7F9;
+
+    /* ── Anchor type colors — PRD spec, consistent across all themes ── */
+    --anchor-red:        #C0392B;
+    --anchor-red-glow:   rgba(192, 57, 43, 0.25);
+    --anchor-amber:      #FFB800;
+    --anchor-amber-glow: rgba(255, 184, 0, 0.20);
+    --anchor-green:      #00C853;
+    --anchor-green-glow: rgba(0, 200, 83, 0.20);
+
+    /* ── AI Agent identity colors — PRD spec ─────────────────────── */
+    --agent-aria:        #00E5FF;   /* Surgical Cyan */
+    --agent-sentinel:    #C0392B;   /* Strategic Red */
+    --agent-oracle:      #FFB800;   /* Warning Gold  */
+    --agent-guardian:    #00C853;   /* Signal Green  */
+    --agent-chronicle:   #8B5CF6;   /* Violet        */
+    --agent-scribe:      #64748B;   /* Slate         */
+  }
+
+  /* ── Absolute Night — maps to .dark class (Tailwind dark: variants work) */
+  .dark {
+    --background: 225 18% 9%;           /* #12141A gunmetal */
+    --foreground: 210 40% 98%;
+    --card: 227 15% 12%;                /* #1A1C23 titanium */
+    --card-foreground: 210 40% 98%;
+    --popover: 227 15% 12%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 189 94% 43%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 227 15% 12%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 227 15% 12%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 189 94% 43%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 349 89% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 100% / 0.05;
+    --input: 0 0% 100% / 0.05;
+    --ring: 189 94% 43%;
+  }
+
+  /* ── Dusk — deep navy-slate. Clearly distinct from Night and Light. ── */
+  /* Applied alongside .dark class: Tailwind dark: variants still work,   */
+  /* but these token overrides shift the palette to a visible navy tone.  */
+  [data-theme="dusk"] {
+    --background: 220 50% 13%;          /* #111C36 — deep navy */
+    --foreground: 210 40% 92%;          /* #E8EEF7 — cool off-white */
+    --card: 220 46% 18%;               /* #182849 — navy surface */
+    --card-foreground: 210 40% 92%;
+    --popover: 220 46% 18%;
+    --popover-foreground: 210 40% 92%;
+    --primary: 205 100% 60%;           /* #33BBFF — electric sky blue */
+    --primary-foreground: 220 50% 10%;
+    --secondary: 220 46% 18%;
+    --secondary-foreground: 210 40% 92%;
+    --muted: 220 46% 18%;
+    --muted-foreground: 213 30% 60%;   /* #8CA3C8 — muted slate-blue */
+    --accent: 205 100% 60%;
+    --accent-foreground: 220 50% 10%;
+    --destructive: 349 89% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 220 50% 30% / 0.35;      /* Visible navy border */
+    --input: 220 50% 30% / 0.25;
+    --ring: 205 100% 60%;
+  }
+}
+
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply antialiased bg-background text-foreground transition-colors duration-500 selection:bg-[#06B6D4]/30;
+    font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  }
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace !important;
+  }
+  .font-sans {
+    font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif !important;
+  }
+}
+
+/* ─── PRI Scrollbar ──────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(148, 163, 184, 0.3); border-radius: 10px; }
+.dark ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); }
+::-webkit-scrollbar-thumb:hover { background: rgba(6, 182, 212, 0.8); }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ─── Animations ─────────────────────────────────────────────────────────── */
+@keyframes radar-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0.4); }
+  70% { box-shadow: 0 0 0 15px rgba(244, 63, 94, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0); }
+}
+.animate-radar-pulse {
+  animation: radar-pulse 2.5s infinite cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.ease-surgical {
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ─── PRI Glass Panels ───────────────────────────────────────────────────── */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.dark .glass-panel {
+  background: rgba(26, 28, 35, 0.65);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.leaflet-container {
+  background: transparent !important;
+  outline: 0;
+  z-index: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
+
+/* ─── Alert Marquee Ticker ───────────────────────────────────────────────── */
+@keyframes marquee-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-33.333%); }
+}
+.marquee-track {
+  animation: marquee-scroll 140s linear infinite;
+  width: max-content;
+}
+.marquee-track:hover {
+  animation-play-state: paused;
+}

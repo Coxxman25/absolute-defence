@@ -1,0 +1,5739 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "072b27ed-de78-4334-98b9-0ab8ce8fe26f",
+        "text": {
+          "ops": [
+            {
+              "insert": "Enhanced Incidents"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "ef1e503e-3bcf-48df-b463-dccb9739f61b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[BULLYING] Hi, sunny today!"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": 1.3041088588329044,
+              "@incLT": 52.65599197432462,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f24f9661-c2a3-430b-a26a-3c86970b9802",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[BULLYING] Green"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": -2.1803424,
+              "@incLT": 51.8421823,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7410387b-cb75-4b84-b018-0adaef6d719a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[PHYSICAL_THREAT] Geoff"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": -2.1805047,
+              "@incLT": 51.8421209,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6bdbb43b-49aa-47ca-9a7e-3b45865c225a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[PHYSICAL_THREAT] Grid"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": -2.1803108254506594,
+              "@incLT": 51.84214284516758,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0a0355aa-edd7-4588-8331-b4833637738f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[PHYSICAL_THREAT] Rushden"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": -2.1803099,
+              "@incLT": 51.8421788,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6a56718f-c9fc-44a9-950d-69fea077fee3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[PHYSICAL_THREAT] Gregg"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incLN": -2.1803151,
+              "@incLT": 51.8421746,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "21ab6d96-7aae-42fc-a747-b4206d5fe735",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[VERBAL_ABUSE] Help me"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incLC": "UNKNOWN",
+              "@incLN": -2.3024189,
+              "@incLT": 51.7551504,
+              "@incRP": "Anonymous Student Report",
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "78c34c08-c68f-4c73-9c6f-467d50af14ce",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774272364252 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-23T13:43:04.225Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273384225",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "53b22381-c2b3-4bc1-a5e4-4f3a8ad4feca",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272124247 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T13:49:04.232Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273744233",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ff4c8f6e-58d8-4df2-9499-099a786f40f8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272124247 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T13:49:04.232Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273744232",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "02ba8c8b-4373-4b19-a062-79180d839e6e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272304239 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T13:52:04.229Z. Zone: GL-DEMO-CHG. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273924229",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3d667b15-c562-4cb3-b735-45a008447e42",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774272904232 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-23T13:52:04.229Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273924230",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1872ee40-1117-4862-8465-0f01cc28db26",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272364252 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T13:53:04.224Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273984225",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0372075a-38e6-4bb4-a57a-877d9250a791",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272364252 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T13:53:04.224Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774273984224",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3155772f-9b48-4734-9eef-99285383978f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273144229 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-23T13:56:04.231Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774274164232",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "52703c99-f033-4534-a39a-90a174497201",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273324230 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-23T13:59:04.233Z. Zone: GL-DEMO-CHG. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774274344233",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e2f181cd-fdc1-4144-b601-398268c1bb89",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273384227 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-23T13:59:48.507Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774274388507",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "44c530c2-39ca-40bc-8913-306b3e72c04b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272904231 unacknowledged after 27 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T14:02:39.188Z. Zone: GL-DEMO-CHG. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774274559189",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cee07245-3d2b-421e-9d5b-fee036770787",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774272964236 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-23T14:02:39.188Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774274559189",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0793765a-b8a2-4289-912d-d841afbfe6b9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-26T14:16:53.945Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.75517,-2.30241. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774534613945",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551678,
+              "@incLN": -2.3024062,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f2f4ba10-8faa-4858-b790-0b38a6c4166b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-27T11:22:48.354Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21111,0.16750. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774610568354",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21110725618957,
+              "@incLN": 0.16749791117607027,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "605e231e-7a3a-4ff1-b2d7-7ba41e5c5c01",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-27T11:25:14.676Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84212,-2.18035. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774610714676",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.842123066485115,
+              "@incLN": -2.1803501665587963,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4f956ad7-b4f2-4163-a829-1d7b71582bd3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-27T11:25:56.782Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21111,0.16751. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774610756782",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21110844492452,
+              "@incLN": 0.16750819890830113,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7223fd85-210c-44d0-932a-f744324e116a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-27T11:25:58.141Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.75514,-2.30240. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774610758142",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551392,
+              "@incLN": -2.3024016,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8ade38f6-abba-4578-b582-0be633500d61",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-27T11:26:06.566Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21111,0.16751. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774610766566",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21110840761347,
+              "@incLN": 0.16750715890719045,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f278996c-99ed-4d5d-bb62-1734a4c7f566",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774269724273 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027417",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3edbf834-0f48-458b-8e0c-17c298fe2b7b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774269724275 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027416",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "901108d6-7c7f-40d2-b82f-affdecfa48b2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774269724272 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: GPS-51_755--2_313. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027417",
+              "@incLC": "GPS-51_755--2_313",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9a411d16-e7a9-4977-a1d8-a852d27cc4cb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273384225 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027426",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "44b4245a-45ac-4a9d-bc51-b83292de0273",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774269724276 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027418",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4340217b-3929-4ec1-8790-d2f91b6701d2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273924230 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:30:27.410Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611027428",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c610a27c-6060-4f85-9c4b-ae4696b4a149",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774265571737 unacknowledged after 1269 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:30:28.416Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611028416",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4bd99748-39cb-4d79-9ff2-3d0aae6c8af2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774271116298 unacknowledged after 1269 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:30:28.416Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611028424",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "761aa5ad-d7da-4fce-a1c6-1b96c6b3bed2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611028416 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:45:59.750Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611959759",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "42c52428-9b63-42a0-9928-b54daf1fef26",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774610758142 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:45:59.750Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611959753",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9961a6ed-f8c6-4472-94e8-bb55b1732caf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611027418 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:45:59.750Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611959757",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5639a25a-266b-44ac-8332-1c87fa874ec9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611027416 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T11:45:59.750Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774611959755",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9df300a5-eff9-4b4f-a345-27be3a90efa9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027417 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: GPS-51_755--2_313. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559770",
+              "@incLC": "GPS-51_755--2_313",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1e540a97-6357-4252-9ea3-8bde293ff1c4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027416 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559770",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "daf7b780-169d-482d-b907-47bffa6cec66",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027418 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559772",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "504c26f6-c75e-4430-9ae2-22f73137155e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027426 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559771",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ae5efd10-5af2-4e40-abfb-df00e45074f7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774610766566 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559766",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dcc6ebc1-0fe4-4f77-9752-0b2267e1584d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027428 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-03-27T11:55:59.761Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612559772",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4a50fecf-67e3-4639-b4b2-349c4faa537e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611959759 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T12:02:59.756Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774612979757",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "81dbb69c-a718-4b88-b435-e589e4037ec9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774612559770 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-03-27T12:11:59.753Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774613519754",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3f97f126-aa3a-4109-bf7b-9764744db8cf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-29T16:13:26.847Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21113,0.16755. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774800806847",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.211132676971644,
+              "@incLN": 0.16754611094469804,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dc2979b0-a948-4abd-a418-367a0a811305",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-03-30T16:44:38.035Z. Location: DEMO-Z1-ENTRANCE. GPS: unavailable. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1774889078035",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "898d4f5a-7cfd-46f5-a744-5d7551b71d5b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-02T15:11:20.706Z. Location: DEMO-Z1-ENTRANCE. GPS: unavailable. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1775142680706",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f5ebcf45-fe3c-4783-94f1-7f880a4a10ba",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-10T21:20:12.911Z. Location: DEMO-Z1-ENTRANCE. GPS: unavailable. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1775856012911",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f6486157-5385-4c99-99bd-bd7f785abc16",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-14T12:08:16.004Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84215,-2.18033. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776168496004",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.842147112031896,
+              "@incLN": -2.1803307041653786,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "91213bb6-f130-460f-b042-e624e7b3393c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774889078035 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:27:46.990Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776284866993",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "135fddc8-fbc9-42fa-bdbd-66f0e2579119",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1775142680706 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:27:46.990Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776284866994",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b09e0ce4-d35f-493c-a14e-cf682ca0e2c2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776168496004 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:27:46.990Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776284866996",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8e6d25b4-584b-4bc3-8671-f9b3bdd0f0d7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774800806847 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:27:46.990Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776284866991",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a0e00693-a448-4c66-b8f8-a78c38311537",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1775856012911 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:27:46.990Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776284866995",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3440e2b3-16a0-4e17-88a6-4f544809473c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774889078035 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:37:46.999Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285467002",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "00faea7f-a9d0-4e65-b2c4-6c8f03a08ac9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774800806847 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:37:46.999Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285466999",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "994f255b-fa4b-40b9-96c7-4a97da011869",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1775856012911 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:37:46.999Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285467004",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6375a7c2-e197-466c-ac50-d9cae6e900b6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776168496004 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:37:46.999Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285467006",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2185403-bb36-420c-a87c-775377f3f246",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866996 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:43:46.996Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285826998",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "858315f5-5a37-49f5-80bb-7d93733142a7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866991 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:43:46.996Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285826999",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ac881124-746f-4a50-9bdb-ba7a3764a50d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866994 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:43:46.996Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285826997",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d7761120-29e2-4425-b742-b6226f5fa9f5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866993 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:43:46.996Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285826996",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8d3cf287-57fd-40c5-a12f-6f38d7636de8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866995 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:44:46.994Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776285886994",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dfce354f-637b-4fd9-905f-eef8cd5c6729",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776284866996 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:53:46.988Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286426990",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9e337416-40a8-40a2-a7f0-5d7997ea770e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776284866991 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:53:46.988Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286426991",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50079472-4309-4805-8f47-8f431bf660b1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776284866995 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:54:39.471Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286479471",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "64f8a7f3-b4e9-4cc1-ae17-68e7a9857922",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285466999 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:54:39.471Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286479473",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f1f42ea7-6320-4b71-8e4b-f0752a5bc3d9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285467002 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:54:39.471Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286479472",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d6909be3-8c76-470e-a8b7-bbefa439a175",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774273384225 unacknowledged after 33551 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:16.091Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516093",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1686a2aa-b390-497d-b3a5-809e3892855a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273984224 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:55:16.091Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516096",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6ba32bcf-087e-4c1a-8f3a-39dcd7665a22",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774273924230 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:55:16.091Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516095",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ebc4245c-6e9e-45cf-8dcb-f7006913786c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774273324230 unacknowledged after 33552 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:16.091Z. Zone: GL-DEMO-CHG. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516092",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "169a7ddb-dab2-4af4-9054-27cfddde510e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774274344233 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:55:16.091Z. Zone: GL-DEMO-CHG. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516097",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2ecbb762-48bd-4e1a-9ae2-416dc192bdd6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774274388507 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:55:16.091Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286516097",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c1cf0917-b406-4ce7-854f-bef21fcd4a26",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774273984225 unacknowledged after 33542 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:17.092Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286517094",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "235a01dc-7f46-4eaf-a115-43e71e8f9297",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774274388507 unacknowledged after 33533 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:17.092Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286517096",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bc2d8d73-a2e3-4a6c-88fc-9e7aa4cbb5d7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774274344233 unacknowledged after 33535 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:17.092Z. Zone: GL-DEMO-CHG. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286517096",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa60eee2-cf1e-42ef-8804-4b4b8bee21f4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774273924230 unacknowledged after 33542 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:17.092Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286517094",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "93bfd165-b9a1-48a7-a72a-81e3b42ce118",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774274164232 unacknowledged after 33538 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T20:55:17.092Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286517096",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4bb4bb39-ba81-473f-bd6b-1fca54ab78c4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285826998 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T20:59:46.974Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286786974",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "650a49ed-4a94-4e51-8254-ecde8e258b33",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285826996 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:00:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286846979",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "94b5e467-0dbf-4f45-b5ca-c64cb3a357fa",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285826997 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:00:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286846978",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cc7b5150-e53a-46f3-902f-c7e28ab88eec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776285886994 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:01:46.986Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776286906986",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e6476cda-99c1-4479-bd91-ddb1411f2ccd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776285467004 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:04:46.984Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287086986",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ecd11428-7d7a-44e7-bf5a-6621ceab9da8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776285467002 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:04:46.984Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287086984",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "00bc0473-d5c4-47b1-847f-2cff28da7d0a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776285466999 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:04:46.984Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287086985",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6d44db65-b1e3-4649-b32c-76ae4954d320",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286426990 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:09:46.978Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287386979",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b926da97-1775-469c-b605-e0e0a15ffd20",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776285826998 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:09:46.978Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287386978",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "812b48cf-c5d6-4386-90de-c614ebeee868",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286426991 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:09:46.978Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287386980",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5ee012c1-15d2-4306-a66a-d57c74c6cbdc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774274559189 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287446978",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fc324edc-19dc-42f7-bf52-478df5c491cc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611027418 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287446989",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3bed4de6-11f0-441b-8fe4-b075e815a954",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611959757 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287446994",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0ddb3bfd-1741-45e0-9361-a607e4ccaf30",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774611027417 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: GPS-51_755--2_313. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287446987",
+              "@incLC": "GPS-51_755--2_313",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a6b27057-c588-4c1c-9ab8-c04f9b2b2b49",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1774612559772 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287446999",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5bf41e26-3d9b-4820-890e-f862e9e838d9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776284866995 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:10:46.976Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287447011",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eea3d728-be1d-4d91-8148-fe044067534c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286786974 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:15:47.971Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287747971",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "76a7da8e-d9f4-4012-8b8f-6f5d19ef2ddd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286846978 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:16:54.699Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287814699",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "525c055a-1f4a-4082-946a-be0d80b7e278",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286906986 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:18:13.982Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776287893982",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bdcb4a71-e4d5-49c7-94d1-bb926f38644e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774610758142 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:20:46.991Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288046997",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9764c4d6-c382-4bdd-b6f6-0c634ece4904",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774534613945 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:20:46.991Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288046994",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "56472e7d-76ee-446f-b7a7-48a0bb921155",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776285467004 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:20:46.991Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288047016",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "05976bcd-78ee-4ff2-ad53-32d0ffa412f7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1774611027428 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:20:46.991Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288047000",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5cd16a85-a81e-4472-9811-4726d3d5e1e7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776284866991 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:20:46.991Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288047013",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bb31d812-c644-4087-9841-e20708639025",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776286479473 unacknowledged after 29 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246240",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8a5393a4-30a4-416a-8ebd-0e9f9cf62255",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776286479471 unacknowledged after 29 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246239",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3f592f95-d45f-4c2e-847e-4ce69853b2a3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776286517096 unacknowledged after 29 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246246",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c3bde4f7-078f-4a07-b65c-b10658ea4964",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776287086986 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246249",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a02ee4c7-6b3b-4b16-b059-00bd01944d64",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776286426990 unacknowledged after 30 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246237",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "94c55686-e8e0-4a7d-bb64-ca771f39e254",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776286516097 unacknowledged after 29 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:24:06.236Z. Zone: GL-DEMO-CHG. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246243",
+              "@incLC": "GL-DEMO-CHG",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bd49cc5a-18d9-448d-99e2-9e416aee2413",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776286846978 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:24:06.236Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288246248",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5031330c-3cbb-4dc9-8659-897a78efcd77",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776287086986 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:29:49.337Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288589338",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cd14a289-cc57-4e87-aa10-7e4e0da39463",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776287086985 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:30:48.343Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288648343",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "42b6cbff-777c-4a06-b11c-304bd573f9f5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776287086986 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:31:39.311Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288699311",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0c13a9eb-c9c7-4286-8f9c-c4fea9a0e5df",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776287747971 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:31:39.311Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288699313",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "25e38281-5281-4e11-a8ad-976c4e2fa27f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776287814699 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:32:05.983Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288725984",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7768832b-db9f-4a71-a6f6-3433c23b1c0f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776287893982 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:33:28.472Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776288808472",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9490d477-4035-4222-b7ea-afedf9c46255",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776288589338 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:45:00.602Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776289500602",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a9c1670b-0185-4a11-a5f6-e7bdfa7ad5b3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776288589338 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T21:45:20.513Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776289520513",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "daf9d198-cd9a-440e-acfc-cff965c4ccf5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288589338 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:55:46.974Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290146975",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a714853-a430-4b89-bacc-4c221410a226",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288648343 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:56:46.976Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290206976",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dfdc98d0-224c-43de-805e-67e8047dabca",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288699313 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:57:46.973Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290266975",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "22e9abdb-e8da-4e93-a565-d1ddc2607297",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288699311 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:57:46.973Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290266973",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "28c53541-1236-4b01-8d0e-549169ada1b4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288725984 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:57:46.973Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290266976",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "90985128-b191-4589-b8b9-2e94f0f2ea3f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288808472 unacknowledged after 26 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T21:59:46.987Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290386987",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "072f0398-d685-4fac-9f50-e5baeb12b99b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776289500602 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T22:00:46.984Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290446984",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "baf3ec26-52bf-4786-b7d0-0a8c2e760455",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — INC-1776289520513 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-15T22:00:46.984Z. Zone: DEMO-Z1-ENTRANCE. Original severity: CRITICAL."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776290446985",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "353b3976-7243-4690-9944-24710495990f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776289520513 unacknowledged after 31 minutes. Duty Manager notified. Compliance event logged at 2026-04-15T22:16:12.113Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776291372212",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "81b8f198-dbcc-4273-a599-f1fabb0f7dbd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — INC-1776288589338 unacknowledged after 1004 minutes. Duty Manager notified. Compliance event logged at 2026-04-16T14:13:57.429Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776348837429",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f145d376-dcad-46b4-abc0-519748753810",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-17T10:44:10.679Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21115,0.16755. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776422650679",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21115453905681,
+              "@incLN": 0.16754789889432542,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "547b0ce6-48af-432c-832d-96dda0257aae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-17T10:45:47.005Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21115,0.16755. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776422747005",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21115453905681,
+              "@incLN": 0.16754789889432542,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9309e5b7-48c1-4f5d-a8b4-07e5da98419f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-17T11:10:17.100Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84219,-2.18037. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1776424217100",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.8421878,
+              "@incLN": -2.1803718,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e90ec63c-e214-446a-bede-20c2225643d7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — 6bdbb43b-49aa-47ca-9a7e-3b45865c225a unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-24T11:12:03.163Z. Zone: DEMO-Z1-ENTRANCE. Original severity: HIGH."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777029123164",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3ffbfda8-189d-4da3-b313-35d0239a4e72",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — 0a0355aa-edd7-4588-8331-b4833637738f unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-24T11:12:03.163Z. Zone: DEMO-Z1-ENTRANCE. Original severity: HIGH."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777029123164",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "22e9cd27-3bb8-427f-a370-a4c7b329c4d8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — 6bdbb43b-49aa-47ca-9a7e-3b45865c225a unacknowledged after 33 minutes. Duty Manager notified. Compliance event logged at 2026-04-24T11:12:04.167Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777029124169",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "68e63578-e5f0-42a2-a858-619a72899c80",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — 6a56718f-c9fc-44a9-950d-69fea077fee3 unacknowledged after 39 minutes. Duty Manager notified. Compliance event logged at 2026-04-24T11:12:04.167Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777029124167",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "140f56e7-81cb-4be6-908e-7d3c24db62e5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-24T11:12:40.256Z. Location: DEMO-Z1-ENTRANCE. GPS: 52.21116,0.16755. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777029160256",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 52.21115526665357,
+              "@incLN": 0.1675512706327107,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "25e0fa24-9974-4f94-a41f-a5e90dd8b726",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚠️ ESCALATION — f24f9661-c2a3-430b-a26a-3c86970b9802 unacknowledged after 15 minutes. Auto-escalated to Facilities Manager at 2026-04-24T11:27:05.920Z. Zone: DEMO-Z1-ENTRANCE. Original severity: HIGH."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777030025921",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "ESCALATION-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0983fbc7-7e1e-4f58-b09f-ebaa9e0810c3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — 7410387b-cb75-4b84-b018-0adaef6d719a unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-04-24T11:37:05.918Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777030625920",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4d1d8655-9915-4946-bd4d-606ba851dea7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🔴 COMPLIANCE BREACH — f24f9661-c2a3-430b-a26a-3c86970b9802 unacknowledged after 25 minutes. Duty Manager notified. Compliance event logged at 2026-04-24T11:37:05.918Z. Zone: DEMO-Z1-ENTRANCE. This is a recorded failure to respond within SLA. Immediate escalation to duty management required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777030625918",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "BREACH-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f3808225-de41-4186-9ee7-12638fd9d8fb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-24T13:59:40.237Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84214,-2.18031. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777039180238",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.84214266617494,
+              "@incLN": -2.1803107539065145,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "087f05f0-55d9-45c1-a47d-b0693303a5e6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-26T12:56:07.980Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.76969,-2.32822. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777208167980",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7696885,
+              "@incLN": -2.3282239,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a7b25784-3d1c-49e2-94cf-b9fc53f69dd9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-26T17:38:38.738Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84219,-2.18044. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777225118738",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.8421894,
+              "@incLN": -2.1804364,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "376cfdb6-c693-4674-b802-0a089f86d270",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚨 EMERGENCY ALERT — SOS button activated at 2026-04-26T17:40:08.741Z. Location: DEMO-Z1-ENTRANCE. GPS: 51.84218,-2.18043. Police (999) called by user."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1777225208741",
+              "@incLC": "DEMO-Z1-ENTRANCE",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.8421835,
+              "@incLN": -2.1804277,
+              "@incRP": "SOS-AUTO"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "31d22907-6bf3-498d-96c5-0cc8208a53f1": {
+            "id": "31d22907-6bf3-498d-96c5-0cc8208a53f1",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "9863dcd8-9118-4f11-91ac-048c07ec0723": {
+            "id": "9863dcd8-9118-4f11-91ac-048c07ec0723",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "75ad2431-f7df-403d-a06c-ec90482f6639": {
+            "id": "75ad2431-f7df-403d-a06c-ec90482f6639",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "417ce648-4f52-450d-9b07-f04e74eb997a": {
+            "id": "417ce648-4f52-450d-9b07-f04e74eb997a",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "743d9cce-24a8-424c-9ce0-b80e95e14424": {
+            "id": "743d9cce-24a8-424c-9ce0-b80e95e14424",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "69bfc3fa-b00c-4aca-bc1a-5bccf9013836": {
+            "id": "69bfc3fa-b00c-4aca-bc1a-5bccf9013836",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "419857a2-c12b-4b6b-9771-72f44f8238f5": {
+            "id": "419857a2-c12b-4b6b-9771-72f44f8238f5",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "27c93885-20cf-4736-a8e3-515905ef7d95": {
+            "id": "27c93885-20cf-4736-a8e3-515905ef7d95",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "e68a01c0-4232-453a-bd90-ff321dfd6e91": {
+            "id": "e68a01c0-4232-453a-bd90-ff321dfd6e91",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "1aacd5f7-d4f8-4356-9ab0-bab4a6945802": {
+            "id": "1aacd5f7-d4f8-4356-9ab0-bab4a6945802",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "a9c87ec0-6841-4389-8dab-fb11773feb44": {
+            "id": "a9c87ec0-6841-4389-8dab-fb11773feb44",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "5783ede0-70eb-4d79-92da-155c67641b47": {
+            "id": "5783ede0-70eb-4d79-92da-155c67641b47",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "bed56eea-51cc-40df-89f6-55b9bc9abac4": {
+            "id": "bed56eea-51cc-40df-89f6-55b9bc9abac4",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "175f6c75-b89e-4432-8a14-81512d49f8d9": {
+            "id": "175f6c75-b89e-4432-8a14-81512d49f8d9",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "c818651e-db51-4471-a160-dd7d3ee6f506": {
+            "id": "c818651e-db51-4471-a160-dd7d3ee6f506",
+            "fieldPath": "/attributes/@incID",
+            "rank": "z"
+          },
+          "ffd0d656-d5b4-46a4-88fb-55716fed6da2": {
+            "id": "ffd0d656-d5b4-46a4-88fb-55716fed6da2",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "zV"
+          },
+          "41e3ade1-0dcb-48a4-ad2e-976975b5f0a6": {
+            "id": "41e3ade1-0dcb-48a4-ad2e-976975b5f0a6",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "zk"
+          },
+          "2d80433a-40e5-491e-aecb-b9d17174382d": {
+            "id": "2d80433a-40e5-491e-aecb-b9d17174382d",
+            "fieldPath": "/attributes/@incST",
+            "rank": "zs"
+          },
+          "ffef69f2-705a-4be6-bae6-60a4d9089dc6": {
+            "id": "ffef69f2-705a-4be6-bae6-60a4d9089dc6",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "zw"
+          },
+          "9104714e-55f8-4e97-b7ff-dc83cc437e10": {
+            "id": "9104714e-55f8-4e97-b7ff-dc83cc437e10",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "zy"
+          },
+          "b58bccfc-a935-44a1-99a3-364959b659e1": {
+            "id": "b58bccfc-a935-44a1-99a3-364959b659e1",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "908110e4-4ca1-414a-9e87-94c471701510": {
+            "id": "908110e4-4ca1-414a-9e87-94c471701510",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "27f64960-5c86-48d9-aec0-dc722ea0264c": {
+            "id": "27f64960-5c86-48d9-aec0-dc722ea0264c",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "ee72d5a3-e486-478e-9696-f43eea64da6d": {
+            "id": "ee72d5a3-e486-478e-9696-f43eea64da6d",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "20602373-9c46-4502-ab9a-e0aa44669854": {
+            "id": "20602373-9c46-4502-ab9a-e0aa44669854",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "4b269a4d-f275-4b17-b48b-9e9cc40b64c3": {
+            "id": "4b269a4d-f275-4b17-b48b-9e9cc40b64c3",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "79f30854-f659-4993-b5df-b6cedfd5e47d": {
+            "id": "79f30854-f659-4993-b5df-b6cedfd5e47d",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "518cd831-8e5d-45b6-ae13-8f131581797d": {
+            "id": "518cd831-8e5d-45b6-ae13-8f131581797d",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "72b9b493-3290-4222-acc3-037e905153b6": {
+            "id": "72b9b493-3290-4222-acc3-037e905153b6",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "78e40d63-d423-4dd5-abba-f5907027e9a8": {
+            "id": "78e40d63-d423-4dd5-abba-f5907027e9a8",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "a83969d6-dc7d-44fc-a51c-2918e1362ad3": {
+            "id": "a83969d6-dc7d-44fc-a51c-2918e1362ad3",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "1151c366-5a10-4273-93c7-a60863890ab8": {
+            "id": "1151c366-5a10-4273-93c7-a60863890ab8",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "facc5e49-7051-47f2-aa49-3d5cadb28bdf": {
+            "id": "facc5e49-7051-47f2-aa49-3d5cadb28bdf",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "977d351e-43d0-4393-9985-667298cc14eb": {
+            "id": "977d351e-43d0-4393-9985-667298cc14eb",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "cbbf7d11-a37f-4d57-8b57-5b2c88cbf206": {
+            "id": "cbbf7d11-a37f-4d57-8b57-5b2c88cbf206",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "fcdfe419-ddb8-475f-b0c8-3629b4b96c77": {
+            "id": "fcdfe419-ddb8-475f-b0c8-3629b4b96c77",
+            "fieldPath": "/attributes/@incID",
+            "rank": "z"
+          },
+          "628fea96-3c5b-48ae-af72-fec121a4a1b8": {
+            "id": "628fea96-3c5b-48ae-af72-fec121a4a1b8",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "zV"
+          },
+          "54fe1ae1-8340-4ddc-bda4-123740bc67e4": {
+            "id": "54fe1ae1-8340-4ddc-bda4-123740bc67e4",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "zk"
+          },
+          "667a5783-2268-4d2f-be98-244dfa0414d9": {
+            "id": "667a5783-2268-4d2f-be98-244dfa0414d9",
+            "fieldPath": "/attributes/@incST",
+            "rank": "zs"
+          },
+          "23300859-4793-46b8-8f9d-0c57aeb1735d": {
+            "id": "23300859-4793-46b8-8f9d-0c57aeb1735d",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "zw"
+          },
+          "e7560f1b-f425-4a25-b5b9-c9442f898a9c": {
+            "id": "e7560f1b-f425-4a25-b5b9-c9442f898a9c",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "zy"
+          },
+          "98951fca-de64-4440-8631-2d48bd2bcef8": {
+            "id": "98951fca-de64-4440-8631-2d48bd2bcef8",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zz"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@incID": {
+        "type": "string",
+        "displayName": "Incident ID"
+      },
+      "@incLC": {
+        "type": "string",
+        "displayName": "Location Code"
+      },
+      "@incSV": {
+        "type": "Select",
+        "displayName": "Severity",
+        "options": {
+          "low": {
+            "id": "low",
+            "name": "Low",
+            "rank": "0",
+            "color": "#3b82f6"
+          },
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "rank": "2",
+            "color": "#f43f5e"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "rank": "3",
+            "color": "#9f1239"
+          }
+        }
+      },
+      "@incST": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "pending": {
+            "id": "pending",
+            "name": "Pending Triage",
+            "rank": "0",
+            "color": "#f43f5e"
+          },
+          "reviewing": {
+            "id": "reviewing",
+            "name": "Reviewing",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "resolved": {
+            "id": "resolved",
+            "name": "Resolved",
+            "rank": "2",
+            "color": "#10b981"
+          }
+        }
+      },
+      "@incLT": {
+        "type": "number",
+        "displayName": "Latitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@incLN": {
+        "type": "number",
+        "displayName": "Longitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@incRP": {
+        "type": "string",
+        "displayName": "Reporter"
+      }
+    }
+  },
+  "preferences": {
+    "avatar": {
+      "type": "emoji",
+      "value": "📗"
+    }
+  }
+}
